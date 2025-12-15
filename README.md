@@ -131,8 +131,3 @@ Console output includes:
 - Designed to emphasize **data-structure implementation and analysis**.
 - Suitable for extension to persistent storage or concurrency control.
 
----
-
-## 📄 License
-
-Academic use for COL106 coursework.
